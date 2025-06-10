@@ -1,0 +1,225 @@
+#EXTM3U url-tvg="http://epg.cloudns.org/dl.php"
+#EXTM3U tvg-url="https://andromeda.eu.org/tv/2ftp/dl.php"
+#EXTM3U tvg-url="https://dl.dropboxusercontent.com/s/xg6c7av61p1jdoq/epg.xml.gz;https://raw.githubusercontent.com/harrygg/EPG/master/epg.xml.gz"
+#EXTM3U x-tvg-url="https://picon-13398.kxcdn.com/"
+#EXTM3U:
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova" tvg-logo="http://138.199.27.237:8080/BULGARIA/NOVA.png" group-title="BULGARIA",|BG| Nova
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30552&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVANEWS" tvg-logo="" group-title="BULGARIA",|BG| NOVA NEWS
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275626&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT1" tvg-logo="" group-title="BULGARIA",|BG| BNT 1 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275595&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT2" tvg-logo="https://lo1.in/bulg/bnt2.png" group-title="BULGARIA",|BG| BNT 2 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275596&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT3" tvg-logo="" group-title="BULGARIA",|BG| BNT 3 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275597&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT4" tvg-logo="https://lo1.in/bulg/bnt4.png" group-title="BULGARIA",|BG| BNT 4 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275598&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BulgariaONAir" tvg-logo="https://ewsat.com/img/BULGARIA_AIR.png" group-title="BULGARIA",|BG| Bulgaria ON Air
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31749&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BULGARIA24" tvg-logo="" group-title="BULGARIA",|BG| BULGARIA 24
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275599&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel" tvg-logo="http://138.199.27.237:8080/USA/THETRAVELCHANNEL.png" group-title="BULG RAZVLECHENIYA",|BG|  Travel TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30546&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SKAT" tvg-logo="" group-title="BULGARIA",|BG| SKAT TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=196000&extension=ts
+#EXTINF:-1 tvg-id="ringbg" tvg-name="RING" tvg-logo="https://www.sklonderzeel.be/images/Site_2014/Images/ArtikelImages/ringTV.png" group-title="BULGARIA",|BG| RING TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30549&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="KinoNova" tvg-logo="http://138.199.27.237:8080/BULGARIA/KINONOVA.png" group-title="BULG KINO",|BG| KinoNova
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30555&extension=ts
+#EXTINF:-1 tvg-id="diema" tvg-name="Diema" tvg-logo="http://138.199.27.237:8080/BULGARIA/DIEMA.png" group-title="BULG KINO",|BG| Diema TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30557&extension=ts
+#EXTINF:-1 tvg-id="7-8tv" tvg-name="7/8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Seven-Eight-TV.png" group-title="BULGARIA",|BG| 7/8 TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31722&extension=ts
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://138.199.27.237:8080/BULGARIA/AMC.png" group-title="BULGARIA",|BG| AMC
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31726&extension=ts
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="http://138.199.27.237:8080/USA/BLOOMBERG.png" group-title="BULGARIA",|BG| Bloomberg TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31737&extension=ts
+#EXTINF:-1 tvg-id="epicdrama" tvg-name="EpicDrama" tvg-logo="https://www.epicdrama.eu/android-icon-192x192.png" group-title="BULGARIA",|BG| Epic Drama ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31772&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FPlus" tvg-logo="http://138.199.27.237:8080/BULGARIA/FILMPLUS.png" group-title="BULGARIA",|BG| F Plus
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31818&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="BULGARIA",|BG| H2
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275652&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="B1BBOX" tvg-logo="" group-title="BULGARIA",|BG| B1B-BOX
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275651&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ALFA" tvg-logo="" group-title="BULGARIA",|BG| ALFA TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275645&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="BULGARIA",|BG| MEZZO
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275642&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAVINCI" tvg-logo="" group-title="BULGARIA",|BG| DA VINCI
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275639&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="" group-title="BULGARIA",|BG| BHTV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275637&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HOBBY" tvg-logo="" group-title="BULGARIA",|BG| HOBBY TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275636&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="" group-title="BULGARIA",|BG| TV1
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275632&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EVROKOM" tvg-logo="" group-title="BULGARIA",|BG| EVROKOM
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275631&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TV1000" tvg-logo="" group-title="BULGARIA",|BG| TV1000
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275628&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TIANKOVFOLK" tvg-logo="" group-title="BULGARIA",|BG| TIANKOV FOLK
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275623&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FOLKLOR" tvg-logo="" group-title="BULGARIA",|BG| FOLKLOR
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PLANETAFOLK" tvg-logo="" group-title="BULGARIA",|BG| PLANETA FOLK
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275621&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HOBBYLOV" tvg-logo="" group-title="BULGARIA",|BG| HOBBY LOV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275614&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HOBBY" tvg-logo="" group-title="BULGARIA",|BG| HOBBY TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275613&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="JIMJAM" tvg-logo="" group-title="BULGARIA",|BG| JIM JAM
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275610&extension=ts
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="BULG DETSA",|BG| Boomerang
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31738&extension=ts
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="CartoonNetwork" tvg-logo="http://138.199.27.237:8080/USA/CARTOONNETWORK.png" group-title="BULG DETSA",|BG| Cartoon Network
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31751&extension=ts
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="Disneychannel" tvg-logo="http://138.199.27.237:8080/0tv_logo/5073.png" group-title="BULG DETSA",|BG| Disney channel
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31764&extension=ts
+#EXTINF:-1 tvg-id="disneyjunior" tvg-name="DisneyJunior" tvg-logo="http://138.199.27.237:8080/0tv_logo/5074.png" group-title="BULG DETSA",|BG| Disney Junior
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31765&extension=ts
+#EXTINF:-1 tvg-id="ekids" tvg-name="EKids" tvg-logo="http://138.199.27.237:8080/BULGARIA/EKIDS.png" group-title="BULG DETSA",|BG| EKids
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31771&extension=ts
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby" tvg-logo="http://138.199.27.237:8080/USA/BABYTVHD.png" group-title="BULG DETSA",|BG| Baby TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31731&extension=ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="BULG DETSA",|BG| Nickelodeon
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31811&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKTOONS.png" group-title="BULG DETSA",|BG| NICK TOONS
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275641&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKJR" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="BULG DETSA",|BG| NICK JR
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275627&extension=ts
+#EXTINF:-1 tvg-id="nova" tvg-name="NovaSport" tvg-logo="http://138.199.27.237:8080/BULGARIA/NOVASPORT.png" group-title="BULG SPORTS",|BG| Nova Sport ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30551&extension=ts
+#EXTINF:-1 tvg-id="diemasport" tvg-name="DiemaSport" tvg-logo="http://138.199.27.237:8080/BULGARIA/DIEMASPORT.png" group-title="BULG SPORTS",|BG| Diema Sport
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30559&extension=ts
+#EXTINF:-1 tvg-id="diemasport2" tvg-name="DiemaSport2" tvg-logo="http://138.199.27.237:8080/BULGARIA/DIEMASPORT2.png" group-title="BULG SPORTS",|BG| Diema Sport 2
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30558&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DiemaSport3" tvg-logo="http://138.199.27.237:8080/BULGARIA/DIEMASPORT.png" group-title="BULG SPORTS",|BG| Diema Sport 3
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=883113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AutoMotorSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Auto_motor_sport_channel_logo.png" group-title="BULG SPORTS",|BG| Auto Motor Sport ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31728&extension=ts
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport1" tvg-logo="http://138.199.27.237:8080/BULGARIA/EUROSPORT.png" group-title="BULG SPORTS",|BG| Eurosport 1 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31773&extension=ts
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport2" tvg-logo="http://138.199.27.237:8080/BULGARIA/EUROSPORT2.png" group-title="BULG SPORTS",|BG| Eurosport 2 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31774&extension=ts
+#EXTINF:-1 tvg-id="maxsport1" tvg-name="MAXSport1" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-1-logo-290x80px.png" group-title="BULG SPORTS",|BG| MAX Sport 1 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31801&extension=ts
+#EXTINF:-1 tvg-id="maxsport2" tvg-name="MAXSport2" tvg-logo="https://maxsport.live/css/es_demo/maxsport/img/max-sport-2-logo-290x80px.png" group-title="BULG SPORTS",|BG| MAX Sport 2 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31802&extension=ts
+#EXTINF:-1 tvg-id="maxsport3" tvg-name="MAXSport3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Max-sport-3-new-logo.png/revision/latest/scale-to-width-down/340?cb=20201123063959" group-title="BULG SPORTS",|BG| MAX Sport 3 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31803&extension=ts
+#EXTINF:-1 tvg-id="maxsport4" tvg-name="MAXSport4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Max-sport-4-new-logo.png/revision/latest/scale-to-width-down/340?cb=20201123064105" group-title="BULG SPORTS",|BG| MAX Sport 4 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31804&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTPlus" tvg-logo="http://138.199.27.237:8080/BULGARIA/SPORTPLUS.png" group-title="BULG SPORTS",|BG| SPORT Plus ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31814&extension=ts
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="AnimalPlanet" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="BULG DOKU",|BG| Animal Planet ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31727&extension=ts
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="DiscoveryChannel" tvg-logo="http://138.199.27.237:8080/USA/DISCOVERYHD.png" group-title="BULG DOKU",|BG| Discovery Channel ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31763&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxLBh096MuL2uW8CiN1Ic4qtMJqBI1VlBGQ&usqp=CAU" group-title="BULGARIA",|BG| DM Sat
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31766&extension=ts
+#EXTINF:-1 tvg-id="viasatexplore" tvg-name="ViasatExplorer" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/VIASATEXPLORE.png" group-title="BULGARIA",|BG| Viasat Explorer
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31822&extension=ts
+#EXTINF:-1 tvg-id="viasathistory" tvg-name="ViasatHistory" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/VIASATHISTORY.png" group-title="BULG DOKU",|BG| Viasat History ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31823&extension=ts
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DiscSci" tvg-logo="http://138.199.27.237:8080/ITALY/DISCOVERYSCIENCEFHD.png" group-title="BULG DOKU",|BG| Disc Sci ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=62666&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA" tvg-logo="" group-title="BULG DOKU",|BG| PLANETA ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=196001&extension=ts
+#EXTINF:-1 tvg-id="history" tvg-name="HistoryChannel" tvg-logo="http://138.199.27.237:8080/BULGARIA/HISTORYCHANNEL.png" group-title="BULG DOKU",|BG| History Channel ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31794&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVELXP" tvg-logo="" group-title="BULG DOKU",|BG| TRAVELXP
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275649&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIME&INVESTIGATION" tvg-logo="" group-title="BULG DOKU",|BG| CRIME & INVESTIGATION
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275646&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NGCWILD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="BULG DOKU",|BG| NGC WILD ˢᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275635&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NGC" tvg-logo="" group-title="BULG DOKU",|BG| NGC ˢᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275634&extension=ts
+#EXTINF:-1 tvg-id="btvaction" tvg-name="bTVAction" tvg-logo="http://138.199.27.237:8080/BULGARIA/BTV.png" group-title="BULG KINO",|BG| bTV Action ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31744&extension=ts
+#EXTINF:-1 tvg-id="btvcinema" tvg-name="bTVCinema" tvg-logo="http://138.199.27.237:8080/BULGARIA/BTV.png" group-title="BULG KINO",|BG| bTV Cinema
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31745&extension=ts
+#EXTINF:-1 tvg-id="btvcomedy" tvg-name="bTVComedy" tvg-logo="http://138.199.27.237:8080/BULGARIA/BTV.png" group-title="BULG KINO",|BG| bTV Comedy
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31746&extension=ts
+#EXTINF:-1 tvg-id="btv" tvg-name="bTV" tvg-logo="http://138.199.27.237:8080/BULGARIA/BTV.png" group-title="BULG KINO",|BG| bTV ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31747&extension=ts
+#EXTINF:-1 tvg-id="btvlady" tvg-name="bTVLady" tvg-logo="http://138.199.27.237:8080/BULGARIA/BTV.png" group-title="BULG KINO",|BG| bTV Lady
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31748&extension=ts
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="FoxCrime" tvg-logo="http://138.199.27.237:8080/BULGARIA/FOXCRIME.png" group-title="BULG RAZVLECHENIYA",|BG| Fox Crime ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31786&extension=ts
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="http://138.199.27.237:8080/BULGARIA/FOX.png" group-title="BULG RAZVLECHENIYA",|BG| FOX ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31787&extension=ts
+#EXTINF:-1 tvg-id="foxlife" tvg-name="FoxLife" tvg-logo="http://138.199.27.237:8080/BULGARIA/FOXLIFE.png" group-title="BULG RAZVLECHENIYA",|BG| Fox Life ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31788&extension=ts
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO+1" tvg-logo="http://138.199.27.237:8080/BULGARIA/HBOHD.png" group-title="BULG KINO",|BG| HBO +1
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31790&extension=ts
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO2" tvg-logo="http://138.199.27.237:8080/BULGARIA/HBO2.png" group-title="BULG KINO",|BG| HBO 2 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31791&extension=ts
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO3" tvg-logo="http://138.199.27.237:8080/BULGARIA/HBO3.png" group-title="BULG KINO",|BG| HBO 3 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31792&extension=ts
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="http://138.199.27.237:8080/0tv_logo/3535.png" group-title="BULG KINO",|BG| HBO ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31793&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CBSReality" tvg-logo="http://138.199.27.237:8080/USA/CBSHD.png" group-title="BULG RAZVLECHENIYA",|BG| CBS Reality
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31752&extension=ts
+#EXTINF:-1 tvg-id="cinemax2" tvg-name="Cinemax2" tvg-logo="http://138.199.27.237:8080/USA/CINEMAXFHD.png" group-title="BULG KINO",|BG| Cinemax 2 ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31753&extension=ts
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="http://138.199.27.237:8080/USA/CINEMAXFHD.png" group-title="BULG KINO",|BG| Cinemax ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31754&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESTAR" tvg-logo="" group-title="BULGARIA",|BG| MOVIE STAR
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275630&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DIEMAFAMILY" tvg-logo="" group-title="BULG KINO",|BG| DIEMA FAMILY
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275609&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYBOX" tvg-logo="" group-title="BULG KINO",|BG| COMEDY BOX
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275629&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOXEXTRA" tvg-logo="" group-title="BULG KINO",|BG| FILMBOX EXTRA ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275607&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ACTIONBOX" tvg-logo="" group-title="BULG KINO",|BG| ACTION BOX ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275606&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX" tvg-logo="" group-title="BULG KINO",|BG| CINEBOX ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275605&extension=ts
+#EXTINF:-1 tvg-id="thevoice" tvg-name="TheVoice" tvg-logo="https://www.digitaltveurope.com/files/2011/11/voice-tv-bulgaria.jpg" group-title="BULG MUZIKA",|BG|  The Voice
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=30547&extension=ts
+#EXTINF:-1 tvg-id="balkanikatv" tvg-name="BalkanikaMusic" tvg-logo="http://138.199.27.237:8080/BULGARIA/BALKANIKA.png" group-title="BULG MUZIKA",|BG| Balkanika Music TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31733&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="FenFolk" tvg-logo="http://138.199.27.237:8080/BULGARIA/FENFOLKTV.png" group-title="BULGARIA",|BG| Fen Folk
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31778&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Fen" tvg-logo="http://138.199.27.237:8080/BULGARIA/FENTV.png" group-title="BULGARIA",|BG| Fen TV ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31779&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Magic" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Magic_TV_Logo.png" group-title="BULG MUZIKA",|BG| Magic TV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31799&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MagicUK" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Magic_TV_Logo.png" group-title="BULG MUZIKA",|BG| Magic UK
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31800&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV00S" tvg-logo="" group-title="BULG MUZIKA",|BG| MTV 00S
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275620&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV90S" tvg-logo="" group-title="BULG MUZIKA",|BG| MTV 90S
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275619&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV80S" tvg-logo="" group-title="BULG MUZIKA",|BG| MTV 80S
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275618&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MTVCLUB" tvg-logo="" group-title="BULG MUZIKA",|BG| MTV CLUB
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275617&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MTVHITS" tvg-logo="" group-title="BULG MUZIKA",|BG| MTV HITS
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275616&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="MTVLIVE" tvg-logo="" group-title="BULG MUZIKA",|BG| MTV LIVE
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=275615&extension=ts
+#EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="BULG MUZIKA",|BG| MTV
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31805&extension=ts
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24Kitchen" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/24kitchen.png" group-title="BULG RAZVLECHENIYA",|BG| 24 Kitchen ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31721&extension=ts
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png" group-title="BULG RAZVLECHENIYA",|BG| AXN
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31729&extension=ts
+#EXTINF:-1 tvg-id="balkanikatv" tvg-name="Balkanika" tvg-logo="http://138.199.27.237:8080/BULGARIA/BALKANIKA.png" group-title="BULG RAZVLECHENIYA",|BG| Balkanika
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31732&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DaVinciLearning" tvg-logo="https://www.nicepng.com/png/full/115-1159421_da-vinci-learning-1-da-vinci-learning-logo.png" group-title="BULG RAZVLECHENIYA",|BG| DaVinci Learning
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31760&extension=ts
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="DiscSci" tvg-logo="http://138.199.27.237:8080/USA/DISCOVERYSCIENCEHD.png" group-title="BULG DOKU",|BG| Disc Sci ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31762&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DocuBox" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="BULG RAZVLECHENIYA",|BG| DocuBox ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31767&extension=ts
+#EXTINF:-1 tvg-id="foodnetwork" tvg-name="FoodNetwork" tvg-logo="http://138.199.27.237:8080/USA/FOODNETWORK.png" group-title="BULG RAZVLECHENIYA",|BG| Food Network ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31785&extension=ts
+#EXTINF:-1 tvg-id="idxtra" tvg-name="Xtra" tvg-logo="http://138.199.27.237:8080/BULGARIA/IDXTRA.png" group-title="BULG RAZVLECHENIYA",|BG| ID Xtra ᴴᴰ
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31795&extension=ts
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="http://138.199.27.237:8080/0tv_logo/3503.png" group-title="BULG RAZVLECHENIYA",|BG| TLC
+http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:5E:DA:F3&stream=31816&extension=ts
