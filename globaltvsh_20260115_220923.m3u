@@ -1,0 +1,544 @@
+#EXTM3U
+# БЪЛГАРСКИ КАНАЛИ - СТРОГО ФИЛТРИРАНИ
+# Генерирано: 2026-01-15 22:09:23
+# Източник: Локален файл: M3UTV-1globaltvsh_com-exp-21_Sep_2026_16_38 (1).m3u
+# Общо канали: 251
+# Филтър: САМО канали с BG: префикс или чисто български имена
+
+
+# ============================================================
+# Национални (30)
+# ============================================================
+
+#EXTINF:-1 tvg-id="BG: BNT 1" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt1.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT 1",BG: BNT 1
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441573&extension=ts&play_token=hiqRu3GMWx
+#EXTINF:-1 tvg-id="BG: BNT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt1.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT 1 4K",BG: BNT 1 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441572&extension=ts&play_token=uLo9c7CMuS
+#EXTINF:-1 tvg-id="BG: BNT 1 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt1.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BNT 1 ⱽᴵᴾ ᴿᴬᵂ",BG: BNT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460989&extension=ts&play_token=k6N6A028pe
+#EXTINF:-1 tvg-id="BG: BNT 2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt2.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT 2",BG: BNT 2
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441571&extension=ts&play_token=xVuj7QMna4
+#EXTINF:-1 tvg-id="BG: BNT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt2.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT 2 4K",BG: BNT 2 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441570&extension=ts&play_token=nXC9AJUGDB
+#EXTINF:-1 tvg-id="BG: BNT 2 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt2.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BNT 2 ⱽᴵᴾ ᴿᴬᵂ",BG: BNT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460988&extension=ts&play_token=2NAlEadSi1
+#EXTINF:-1 tvg-id="BG: BNT 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt3.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT 3 4K",BG: BNT 3 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441569&extension=ts&play_token=RBFUAfHyh9
+#EXTINF:-1 tvg-id="BG: BNT 3 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt3.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BNT 3 ⱽᴵᴾ ᴿᴬᵂ",BG: BNT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460987&extension=ts&play_token=KIycbEAJSv
+#EXTINF:-1 tvg-id="BG: BNT 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt4.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT 4 4K",BG: BNT 4 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441568&extension=ts&play_token=i0dKQD9o4S
+#EXTINF:-1 tvg-id="BG: BNT 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt4.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT 4 HD",BG: BNT 4 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441567&extension=ts&play_token=4SKgipV4do
+#EXTINF:-1 tvg-id="BG: BNT 4 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bnt4.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BNT 4 ⱽᴵᴾ ᴿᴬᵂ",BG: BNT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460986&extension=ts&play_token=m3JQ9SGW9F
+#EXTINF:-1 tvg-id="BG: BNT WORD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bntworld.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BNT WORD",BG: BNT WORD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441566&extension=ts&play_token=QfiaHlALA2
+#EXTINF:-1 tvg-id="BG: BTV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BTV",BG: BTV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441601&extension=ts&play_token=waOCZO5hhP
+#EXTINF:-1 tvg-id="BG: BTV ACTION" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvaction.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BTV ACTION",BG: BTV ACTION
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441599&extension=ts&play_token=DhXegG6JxR
+#EXTINF:-1 tvg-id="BG: BTV ACTION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvaction.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BTV ACTION 4K",BG: BTV ACTION 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441600&extension=ts&play_token=Kqbq9j3o4o
+#EXTINF:-1 tvg-id="BG: BTV ACTION ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvaction.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BTV ACTION ⱽᴵᴾ ᴿᴬᵂ",BG: BTV ACTION ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460973&extension=ts&play_token=kcfbN2ICOe
+#EXTINF:-1 tvg-id="BG: BTV CINEMA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvcinema.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BTV CINEMA",BG: BTV CINEMA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441598&extension=ts&play_token=Vwz0e8dWPn
+#EXTINF:-1 tvg-id="BG: BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvcinema.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ",BG: BTV CINEMA ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460972&extension=ts&play_token=qnsh7KaZHW
+#EXTINF:-1 tvg-id="BG: BTV COMEDY" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvcomedy.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BTV COMEDY",BG: BTV COMEDY
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441597&extension=ts&play_token=AHmUX6B4J1
+#EXTINF:-1 tvg-id="BG: BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvcomedy.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ",BG: BTV COMEDY ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460971&extension=ts&play_token=2b62auCDII
+#EXTINF:-1 tvg-id="BG: BTV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BTV HD",BG: BTV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441602&extension=ts&play_token=T9FAtld8lC
+#EXTINF:-1 tvg-id="BG: BTV LADY" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvlady.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BTV LADY",BG: BTV LADY
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441596&extension=ts&play_token=aNTNT8NpUm
+#EXTINF:-1 tvg-id="BG: BTV STORY ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11217.jpg?54253" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BTV STORY ⱽᴵᴾ ᴿᴬᵂ",BG: BTV STORY ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460970&extension=ts&play_token=PoUxoUpLle
+#EXTINF:-1 tvg-id="BG: BTV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/btvhd.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BTV ⱽᴵᴾ ᴿᴬᵂ",BG: BTV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460974&extension=ts&play_token=i2uQoI5kvo
+#EXTINF:-1 tvg-id="BG: BULGARIA 24" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bulgaria24.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BULGARIA 24",BG: BULGARIA 24
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441561&extension=ts&play_token=jvb0BpPyVz
+#EXTINF:-1 tvg-id="BG: KANAL 3" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/kanal3.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: KANAL 3",BG: KANAL 3
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441492&extension=ts&play_token=dTFXF3zXau
+#EXTINF:-1 tvg-id="BG: KANAL 3 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/kanal3.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: KANAL 3 ⱽᴵᴾ ᴿᴬᵂ",BG: KANAL 3 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460926&extension=ts&play_token=yFEWyHA84q
+#EXTINF:-1 tvg-id="BG: NOVA TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/novahd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NOVA TV HD",BG: NOVA TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441473&extension=ts&play_token=oEiXb1nwax
+#EXTINF:-1 tvg-id="BG: TV1" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/tv1.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TV1",BG: TV1
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441447&extension=ts&play_token=upNZ265ZtT
+#EXTINF:-1 tvg-id="BG: TV1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/tv1.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TV1 HD",BG: TV1 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441446&extension=ts&play_token=dnNjPzuk3Z
+
+# ============================================================
+# Спортни (41)
+# ============================================================
+
+#EXTINF:-1 tvg-id="BG: AUTO MOTO SPORT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/automotorsporthd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: AUTO MOTO SPORT HD",BG: AUTO MOTO SPORT HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441587&extension=ts&play_token=ZHObxEruw5
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasporthd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 1 HD",BG: DIEMA SPORT 1 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441543&extension=ts&play_token=XFFUUpX9ow
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 1 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14526.png?91521" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: DIEMA SPORT 1 ᴿᴬᵂ",BG: DIEMA SPORT 1 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562903&extension=ts&play_token=PFPFzNTzsD
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasporthd.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ",BG: DIEMA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460981&extension=ts&play_token=CpQmNp7czb
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasport2.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 2",BG: DIEMA SPORT 2
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441542&extension=ts&play_token=yrl320VOSo
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasport2hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 2 HD",BG: DIEMA SPORT 2 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441541&extension=ts&play_token=Kqc0XCKQ7g
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 2 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14527.png?90985" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: DIEMA SPORT 2 ᴿᴬᵂ",BG: DIEMA SPORT 2 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562902&extension=ts&play_token=uqhCnQttDF
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasport2.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ",BG: DIEMA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460980&extension=ts&play_token=RKZmiRseLS
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasport2hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 3 HD",BG: DIEMA SPORT 3 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441459&extension=ts&play_token=rgrccuV7QC
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 3 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14528.png?59018" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: DIEMA SPORT 3 ᴿᴬᵂ",BG: DIEMA SPORT 3 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562901&extension=ts&play_token=96YtfiA9k8
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasport2hd.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ",BG: DIEMA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460979&extension=ts&play_token=7NN9aV4Qzh
+#EXTINF:-1 tvg-id="BG: DIEMA SPORT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemasport2hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA SPORT 4K",BG: DIEMA SPORT 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441540&extension=ts&play_token=GKwZX5y9iv
+#EXTINF:-1 tvg-id="BG: EUROSPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/eurosport.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: EUROSPORT",BG: EUROSPORT
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441526&extension=ts&play_token=DhBGUPvDuE
+#EXTINF:-1 tvg-id="BG: EUROSPORT 2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/eurosport2.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: EUROSPORT 2",BG: EUROSPORT 2
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441525&extension=ts&play_token=gsGXlIUZjl
+#EXTINF:-1 tvg-id="BG: EUROSPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/eurosport2hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: EUROSPORT 2 HD",BG: EUROSPORT 2 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441524&extension=ts&play_token=6oJ0IhuSuR
+#EXTINF:-1 tvg-id="BG: EUROSPORT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/eurosporthd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: EUROSPORT HD",BG: EUROSPORT HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441523&extension=ts&play_token=bVvS2r5oFa
+#EXTINF:-1 tvg-id="BG: EUROSPORT ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?20925" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: EUROSPORT ᴿᴬᵂ",BG: EUROSPORT ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562895&extension=ts&play_token=yCE1gzyhy2
+#EXTINF:-1 tvg-id="BG: EUROSPORT2 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/627.jpg?83156" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: EUROSPORT2 ᴿᴬᵂ",BG: EUROSPORT2 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562894&extension=ts&play_token=TVClKT3974
+#EXTINF:-1 tvg-id="BG: MAX SPORT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/maxsport1hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 1 HD",BG: MAX SPORT 1 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441489&extension=ts&play_token=Y7Z1Q0hZRc
+#EXTINF:-1 tvg-id="BG: MAX SPORT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/maxsport1hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 1 HD",BG: MAX SPORT 1 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441431&extension=ts&play_token=cHNjKwmOBb
+#EXTINF:-1 tvg-id="BG: MAX SPORT 1 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14529.png?14305" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: MAX SPORT 1 ᴿᴬᵂ",BG: MAX SPORT 1 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562900&extension=ts&play_token=mfvPyPfzzy
+#EXTINF:-1 tvg-id="BG: MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/maxsport1hd.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ",BG: MAX SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460978&extension=ts&play_token=IfAg2WLp1f
+#EXTINF:-1 tvg-id="BG: MAX SPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-2-HD.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 2 HD",BG: MAX SPORT 2 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441488&extension=ts&play_token=jXxISiZkyU
+#EXTINF:-1 tvg-id="BG: MAX SPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-2-HD.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 2 HD",BG: MAX SPORT 2 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441430&extension=ts&play_token=VVoq80BkB3
+#EXTINF:-1 tvg-id="BG: MAX SPORT 2 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14530.png?233" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: MAX SPORT 2 ᴿᴬᵂ",BG: MAX SPORT 2 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562899&extension=ts&play_token=N4Azk7eVBG
+#EXTINF:-1 tvg-id="BG: MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-2-HD.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ",BG: MAX SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460977&extension=ts&play_token=dvsB5qS3dO
+#EXTINF:-1 tvg-id="BG: MAX SPORT 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-3-HD.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 3 4K",BG: MAX SPORT 3 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441429&extension=ts&play_token=KDQV6iMkrd
+#EXTINF:-1 tvg-id="BG: MAX SPORT 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-3-HD.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 3 HD",BG: MAX SPORT 3 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441487&extension=ts&play_token=8FwX9RcXgt
+#EXTINF:-1 tvg-id="BG: MAX SPORT 3 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14531.png?28461" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: MAX SPORT 3 ᴿᴬᵂ",BG: MAX SPORT 3 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562898&extension=ts&play_token=Uf5GkT1iSp
+#EXTINF:-1 tvg-id="BG: MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-3-HD.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ",BG: MAX SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460976&extension=ts&play_token=0HCDxsFwUc
+#EXTINF:-1 tvg-id="BG: MAX SPORT 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-4-HD.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 4 4K",BG: MAX SPORT 4 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441486&extension=ts&play_token=sMkn76QNWn
+#EXTINF:-1 tvg-id="BG: MAX SPORT 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-4-HD.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAX SPORT 4 4K",BG: MAX SPORT 4 4K
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441428&extension=ts&play_token=2LPWyPzphb
+#EXTINF:-1 tvg-id="BG: MAX SPORT 4 ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14532.png?45766" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: MAX SPORT 4 ᴿᴬᵂ",BG: MAX SPORT 4 ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562897&extension=ts&play_token=oyLd97MgHC
+#EXTINF:-1 tvg-id="BG: MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAX-SPORT-4-HD.jpeg" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ",BG: MAX SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460975&extension=ts&play_token=9jpYBu60Qd
+#EXTINF:-1 tvg-id="BG: NOVA SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NOVA SPORT",BG: NOVA SPORT
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441475&extension=ts&play_token=EHxaXWzBT4
+#EXTINF:-1 tvg-id="BG: NOVA SPORT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NOVA SPORT HD",BG: NOVA SPORT HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441474&extension=ts&play_token=Ut6WFvwAjO
+#EXTINF:-1 tvg-id="BG: NOVA SPORT ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/3918.png?74708" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: NOVA SPORT ᴿᴬᵂ",BG: NOVA SPORT ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562896&extension=ts&play_token=RHZD03egqT
+#EXTINF:-1 tvg-id="BG: NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/NOVA-SPORT.jpeg" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ",BG: NOVA SPORT ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460983&extension=ts&play_token=fH7JZHC6hL
+#EXTINF:-1 tvg-id="BG: SPORT" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/sportstv.jpg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: SPORT",BG: SPORT
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441460&extension=ts&play_token=DQNnCVhonE
+#EXTINF:-1 tvg-id="BG: TRACE SPORT STARS" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/tracesportsstarshd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TRACE SPORT STARS",BG: TRACE SPORT STARS
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441453&extension=ts&play_token=pTIWoqlOAd
+#EXTINF:-1 tvg-id="BG: TRACE SPORT STARS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/tracesportsstarshd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TRACE SPORT STARS HD",BG: TRACE SPORT STARS HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441452&extension=ts&play_token=WAEPXl6xNY
+
+# ============================================================
+# Филмови (25)
+# ============================================================
+
+#EXTINF:-1 tvg-id="BG: AMC" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/amc.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: AMC",BG: AMC
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441590&extension=ts&play_token=BkWcyimD7P
+#EXTINF:-1 tvg-id="BG: AXN" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/axn.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: AXN",BG: AXN
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441586&extension=ts&play_token=0MESQjHhsg
+#EXTINF:-1 tvg-id="BG: AXN BLACK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/axnblack.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: AXN BLACK",BG: AXN BLACK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441585&extension=ts&play_token=FqAur7kqoZ
+#EXTINF:-1 tvg-id="BG: AXN WHITE" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/axnwhite.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: AXN WHITE",BG: AXN WHITE
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441584&extension=ts&play_token=mAXPlJwIkB
+#EXTINF:-1 tvg-id="BG: CINEMA PLUS" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/cinemaplus.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CINEMA PLUS",BG: CINEMA PLUS
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441555&extension=ts&play_token=Bo9sWbiNIA
+#EXTINF:-1 tvg-id="BG: CINEMAX" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/EUROPE/Cinemax.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CINEMAX",BG: CINEMAX
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441554&extension=ts&play_token=p0xbOpM2A9
+#EXTINF:-1 tvg-id="BG: CINEMAX 2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/cinemax2.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CINEMAX 2",BG: CINEMAX 2
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441553&extension=ts&play_token=uiZX4HJVRO
+#EXTINF:-1 tvg-id="BG: CINEMAX 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/cinemax2hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CINEMAX 2 HD",BG: CINEMAX 2 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441552&extension=ts&play_token=LduA8WBDfS
+#EXTINF:-1 tvg-id="BG: CINEMAX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/CINEMAX---.PNG" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CINEMAX HD",BG: CINEMAX HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441551&extension=ts&play_token=V33qsQsuVQ
+#EXTINF:-1 tvg-id="BG: FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/filmboxhd.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ",BG: FILMBOX ARTHOUSE ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460963&extension=ts&play_token=PPgj8BX6pM
+#EXTINF:-1 tvg-id="BG: FILMBOX EXTRA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/filmboxextra.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FILMBOX EXTRA",BG: FILMBOX EXTRA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441516&extension=ts&play_token=RvKwm603YT
+#EXTINF:-1 tvg-id="BG: FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/filmboxextra.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ",BG: FILMBOX EXTRA ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460962&extension=ts&play_token=rreY0PbZQJ
+#EXTINF:-1 tvg-id="BG: FILMBOX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/filmboxhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FILMBOX HD",BG: FILMBOX HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441515&extension=ts&play_token=NjQIyuecin
+#EXTINF:-1 tvg-id="BG: FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/filmboxhd.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ",BG: FILMBOX STARS ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460961&extension=ts&play_token=KlD4tVWads
+#EXTINF:-1 tvg-id="BG: FILMBOX ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/filmboxhd.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: FILMBOX ⱽᴵᴾ ᴿᴬᵂ",BG: FILMBOX ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460964&extension=ts&play_token=1TrTyRqV2X
+#EXTINF:-1 tvg-id="BG: FOX" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/fox.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOX",BG: FOX
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441510&extension=ts&play_token=Cxb8BsjN27
+#EXTINF:-1 tvg-id="BG: FOX CRIME" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/foxcrime.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOX CRIME",BG: FOX CRIME
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441509&extension=ts&play_token=LyoS4zY9Xs
+#EXTINF:-1 tvg-id="BG: FOX CRIME HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/foxcrimehd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOX CRIME HD",BG: FOX CRIME HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441508&extension=ts&play_token=l4567GkAcq
+#EXTINF:-1 tvg-id="BG: FOX LIFE" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/foxlife.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOX LIFE",BG: FOX LIFE
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441507&extension=ts&play_token=v1jeIMw3hE
+#EXTINF:-1 tvg-id="BG: FOX LIFE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/foxlifehd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOX LIFE HD",BG: FOX LIFE HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441506&extension=ts&play_token=UNQOB1ffaf
+#EXTINF:-1 tvg-id="BG: HBO 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/hbo1hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: HBO 1 HD",BG: HBO 1 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441504&extension=ts&play_token=oSjpeycMWA
+#EXTINF:-1 tvg-id="BG: HBO 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/hbo2hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: HBO 2 HD",BG: HBO 2 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441503&extension=ts&play_token=KkP3o47UNL
+#EXTINF:-1 tvg-id="BG: HBO3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/hbo3hd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: HBO3 HD",BG: HBO3 HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441502&extension=ts&play_token=DupzSmVyFP
+#EXTINF:-1 tvg-id="BG: MOVIE STAR" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MOVIE-STAR-HD.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MOVIE STAR",BG: MOVIE STAR
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441485&extension=ts&play_token=GXMcR75uB0
+#EXTINF:-1 tvg-id="BG: MOVIE STAR FULL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MOVIE-STAR-HD.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MOVIE STAR FULL HD",BG: MOVIE STAR FULL HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441484&extension=ts&play_token=9qSNxq2bgT
+
+# ============================================================
+# Детски/Анимационни (10)
+# ============================================================
+
+#EXTINF:-1 tvg-id="BG: BABY TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/babytv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BABY TV",BG: BABY TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441583&extension=ts&play_token=buH5z3oE7h
+#EXTINF:-1 tvg-id="BG: BOOMERANG" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/boomerang.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BOOMERANG",BG: BOOMERANG
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441564&extension=ts&play_token=rVSPhLh4t8
+#EXTINF:-1 tvg-id="BG: CARTOON NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/cartoonnetwork.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CARTOON NETWORK",BG: CARTOON NETWORK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441557&extension=ts&play_token=QrtOvWl0CB
+#EXTINF:-1 tvg-id="BG: CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/cartoonnetwork.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ",BG: CARTOON NETWORK ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460953&extension=ts&play_token=4H7xUGtmht
+#EXTINF:-1 tvg-id="BG: DISNEY CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/disneychannel.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DISNEY CHANNEL",BG: DISNEY CHANNEL
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441534&extension=ts&play_token=lck4QrzLid
+#EXTINF:-1 tvg-id="BG: DISNEY JUNIOR" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/disneyjunior.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DISNEY JUNIOR",BG: DISNEY JUNIOR
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441533&extension=ts&play_token=zOaNcC6cpS
+#EXTINF:-1 tvg-id="BG: NICK JR" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nickjr.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NICK JR",BG: NICK JR
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441477&extension=ts&play_token=wUsXH1FCKT
+#EXTINF:-1 tvg-id="BG: NICK JR. ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nickjr.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: NICK JR. ⱽᴵᴾ ᴿᴬᵂ",BG: NICK JR. ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460954&extension=ts&play_token=Uwd4MjTZQP
+#EXTINF:-1 tvg-id="BG: NICKELODEON" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nickelodeon.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NICKELODEON",BG: NICKELODEON
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441478&extension=ts&play_token=fYz1UWWDnk
+#EXTINF:-1 tvg-id="BG: NICKELODEON ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nickelodeon.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: NICKELODEON ⱽᴵᴾ ᴿᴬᵂ",BG: NICKELODEON ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460955&extension=ts&play_token=IHGNbRnTjV
+
+# ============================================================
+# Музикални/Забавни (18)
+# ============================================================
+
+#EXTINF:-1 tvg-id="BG: BALKANIKA MUSIC" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/balkanikamusictelevision.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BALKANIKA MUSIC",BG: BALKANIKA MUSIC
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441582&extension=ts&play_token=KPx5usReNW
+#EXTINF:-1 tvg-id="BG: BALKANIKA MUSIC TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/balkanikamusictelevision.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BALKANIKA MUSIC TV HD",BG: BALKANIKA MUSIC TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441581&extension=ts&play_token=clIWXRQCqM
+#EXTINF:-1 tvg-id="BG: BG MUSIC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BG-MUSIK.jpg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BG MUSIC HD",BG: BG MUSIC HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441579&extension=ts&play_token=zpFh3e9f7P
+#EXTINF:-1 tvg-id="BG: FEN FOLK TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/fenfolktv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FEN FOLK TV",BG: FEN FOLK TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441520&extension=ts&play_token=QuM8NgE74c
+#EXTINF:-1 tvg-id="BG: FEN FOLK ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14294.jpg?13022" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: FEN FOLK ⱽᴵᴾ ᴿᴬᵂ",BG: FEN FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460968&extension=ts&play_token=XcD5kkd8cB
+#EXTINF:-1 tvg-id="BG: FOLKLOR TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/folklortv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOLKLOR TV",BG: FOLKLOR TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441513&extension=ts&play_token=NGPk9BEBbX
+#EXTINF:-1 tvg-id="BG: FOLKLOR TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/folklortv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOLKLOR TV HD",BG: FOLKLOR TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441512&extension=ts&play_token=YWAwZHA0Ob
+#EXTINF:-1 tvg-id="BG: MAGIC TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAGIC-TV.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: MAGIC TV",BG: MAGIC TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441490&extension=ts&play_token=w8sws0tyg6
+#EXTINF:-1 tvg-id="BG: MAGIC TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MAGIC-TV.jpeg" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: MAGIC TV ⱽᴵᴾ ᴿᴬᵂ",BG: MAGIC TV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460929&extension=ts&play_token=PkM5i5C9JH
+#EXTINF:-1 tvg-id="BG: PLANETA FOLK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/PLANETA-FOLK.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: PLANETA FOLK",BG: PLANETA FOLK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441469&extension=ts&play_token=PxmJOd6rs1
+#EXTINF:-1 tvg-id="BG: PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/PLANETA-FOLK.jpeg" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ",BG: PLANETA FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460936&extension=ts&play_token=ZpN6kx4PPu
+#EXTINF:-1 tvg-id="BG: SUNRISE MUSIC" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/sunrisefm.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: SUNRISE MUSIC",BG: SUNRISE MUSIC
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441458&extension=ts&play_token=n7mtcmPowr
+#EXTINF:-1 tvg-id="BG: THE VOICE" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/thevoice.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: THE VOICE",BG: THE VOICE
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441457&extension=ts&play_token=VWXs59dM4L
+#EXTINF:-1 tvg-id="BG: THE VOICE ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/thevoice.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: THE VOICE ⱽᴵᴾ ᴿᴬᵂ",BG: THE VOICE ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460940&extension=ts&play_token=9UYIwT1JTf
+#EXTINF:-1 tvg-id="BG: TIANKOV FOLK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TIANKOV-FOLK.jpg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TIANKOV FOLK HD",BG: TIANKOV FOLK HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441456&extension=ts&play_token=QkIcWvzpUx
+#EXTINF:-1 tvg-id="BG: TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TIANKOV-FOLK.jpg" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ",BG: TIANKOV FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460931&extension=ts&play_token=ZOO6b0Ncoa
+#EXTINF:-1 tvg-id="BG: TIANKOV ORIENT FOLK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TIANKOV-FOLK.jpg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TIANKOV ORIENT FOLK",BG: TIANKOV ORIENT FOLK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441455&extension=ts&play_token=07d4zll7kI
+#EXTINF:-1 tvg-id="BG: TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TIANKOV-FOLK.jpg" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ",BG: TIANKOV ORIENT FOLK ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460930&extension=ts&play_token=v8gr9ySNTG
+
+# ============================================================
+# Документални/Образователни (16)
+# ============================================================
+
+#EXTINF:-1 tvg-id="BG: DISCOVERY CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoverychannelhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DISCOVERY CHANNEL HD",BG: DISCOVERY CHANNEL HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441538&extension=ts&play_token=U5PLpRZkWu
+#EXTINF:-1 tvg-id="BG: DISCOVERY SHOWCASE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoveryshowcasehd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DISCOVERY SHOWCASE HD",BG: DISCOVERY SHOWCASE HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441535&extension=ts&play_token=2XAXbDWcdd
+#EXTINF:-1 tvg-id="BG: HISTORY CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/historychannel.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: HISTORY CHANNEL",BG: HISTORY CHANNEL
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441501&extension=ts&play_token=LgNAtJ9gs8
+#EXTINF:-1 tvg-id="BG: HISTORY CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/historychannelhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: HISTORY CHANNEL HD",BG: HISTORY CHANNEL HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441500&extension=ts&play_token=X0jxDTEMu4
+#EXTINF:-1 tvg-id="BG: NAT GEO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/natgeohd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NAT GEO HD",BG: NAT GEO HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441483&extension=ts&play_token=KkTD7oxLwX
+#EXTINF:-1 tvg-id="BG: NAT GEO WILD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/natgeowildhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NAT GEO WILD HD",BG: NAT GEO WILD HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441482&extension=ts&play_token=KF1EOsCebZ
+#EXTINF:-1 tvg-id="BG: NAT GEO WILD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/natgeowildhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NAT GEO WILD HD",BG: NAT GEO WILD HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441481&extension=ts&play_token=LviNVPA9OO
+#EXTINF:-1 tvg-id="BG: NATURE & HISTORY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/viasatnaturehistoryhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NATURE & HISTORY HD",BG: NATURE & HISTORY HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441479&extension=ts&play_token=stSAeykdCS
+#EXTINF:-1 tvg-id="BG: TRAVEL CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/travelchannel.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TRAVEL CHANNEL",BG: TRAVEL CHANNEL
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441451&extension=ts&play_token=oMZpGeC3MD
+#EXTINF:-1 tvg-id="BG: TRAVEL CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/travelchannelhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TRAVEL CHANNEL HD",BG: TRAVEL CHANNEL HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441450&extension=ts&play_token=Qbta5z6O4S
+#EXTINF:-1 tvg-id="BG: TRAVEL TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/travel.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TRAVEL TV",BG: TRAVEL TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441449&extension=ts&play_token=AEvYMmr1fw
+#EXTINF:-1 tvg-id="BG: TRAVEL TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/travelhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TRAVEL TV HD",BG: TRAVEL TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441448&extension=ts&play_token=qsRCJBSRM7
+#EXTINF:-1 tvg-id="BG: TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/travelchannel.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ",BG: TRAVEL TV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460927&extension=ts&play_token=aJ7dWJxmCm
+#EXTINF:-1 tvg-id="BG: VIASAT HISTORY" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/viasathistory.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: VIASAT HISTORY",BG: VIASAT HISTORY
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441439&extension=ts&play_token=BOLGlPpBZk
+#EXTINF:-1 tvg-id="BG: VIASAT HISTORY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/viasathistory.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: VIASAT HISTORY HD",BG: VIASAT HISTORY HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441438&extension=ts&play_token=861rGCkWp8
+#EXTINF:-1 tvg-id="BG: VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14068.png?58410" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ",BG: VIASAT HISTORY ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460948&extension=ts&play_token=5Bj76M8h8D
+
+# ============================================================
+# Други (111)
+# ============================================================
+
+#EXTINF:-1 tvg-id="BG: 24 KITCHEN" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/24kitchen.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: 24 KITCHEN",BG: 24 KITCHEN
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441595&extension=ts&play_token=iZLJ30L2EO
+#EXTINF:-1 tvg-id="BG: 24 KITCHEN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/24kitchenhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: 24 KITCHEN HD",BG: 24 KITCHEN HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441594&extension=ts&play_token=NYE2ZS4CYS
+#EXTINF:-1 tvg-id="BG: 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/24kitchen.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ",BG: 24 KITCHEN ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460925&extension=ts&play_token=SyA6a1ygDp
+#EXTINF:-1 tvg-id="BG: ACTION BOX ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14171.png?78096" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: ACTION BOX ⱽᴵᴾ ᴿᴬᵂ",BG: ACTION BOX ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460945&extension=ts&play_token=GYaYA0JCZZ
+#EXTINF:-1 tvg-id="BG: ACTION PLUS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/SONY-ACTION-PLUS1.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: ACTION PLUS HD",BG: ACTION PLUS HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441593&extension=ts&play_token=ts9JmreoSE
+#EXTINF:-1 tvg-id="BG: AGRO TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/agrotv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: AGRO TV",BG: AGRO TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441592&extension=ts&play_token=nPa4mqI5uD
+#EXTINF:-1 tvg-id="BG: AGRO TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/agrotv.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: AGRO TV ⱽᴵᴾ ᴿᴬᵂ",BG: AGRO TV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460960&extension=ts&play_token=9UgKyroh91
+#EXTINF:-1 tvg-id="BG: ALFA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/alfatv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: ALFA TV",BG: ALFA TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441591&extension=ts&play_token=KvJGertSBw
+#EXTINF:-1 tvg-id="BG: ANIMAL PLANET" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/animalplanet.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: ANIMAL PLANET",BG: ANIMAL PLANET
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441589&extension=ts&play_token=gYuHEnqZNs
+#EXTINF:-1 tvg-id="BG: ANIMAL PLANET HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/animalplanethd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: ANIMAL PLANET HD",BG: ANIMAL PLANET HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441588&extension=ts&play_token=WlBEhyR0IC
+#EXTINF:-1 tvg-id="BG: BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/balkanikamusictelevision.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ",BG: BALKANIKA TV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460956&extension=ts&play_token=HtWqWxGd2t
+#EXTINF:-1 tvg-id="BG: BG + ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14300.png?35704" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BG + ⱽᴵᴾ ᴿᴬᵂ",BG: BG + ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460934&extension=ts&play_token=xj8yDF6RZ3
+#EXTINF:-1 tvg-id="BG: BG MUSIK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BG-MUSIK.jpg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BG MUSIK",BG: BG MUSIK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441578&extension=ts&play_token=lgM9eVPe9h
+#EXTINF:-1 tvg-id="BG: BG—DNES HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BG-DNES.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BG—DNES HD",BG: BG—DNES HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441580&extension=ts&play_token=VnAe8Y3VqN
+#EXTINF:-1 tvg-id="BG: BHTV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BHTV.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BHTV",BG: BHTV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441577&extension=ts&play_token=KdFw05v0C8
+#EXTINF:-1 tvg-id="BG: BIT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BIT-TV.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BIT TV",BG: BIT TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441576&extension=ts&play_token=AsAj7iViKQ
+#EXTINF:-1 tvg-id="BG: BLOOMBERG" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bloomberg.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BLOOMBERG",BG: BLOOMBERG
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441575&extension=ts&play_token=miHhLsyj0Y
+#EXTINF:-1 tvg-id="BG: BLOOMBERG TV BULGARIA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bloombergtvbg.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BLOOMBERG TV BULGARIA HD",BG: BLOOMBERG TV BULGARIA HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441574&extension=ts&play_token=bJxmCQpgo3
+#EXTINF:-1 tvg-id="BG: BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11392.png?42980" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ",BG: BLOOMBERG TV BULGARIA ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460946&extension=ts&play_token=cLJwght69j
+#EXTINF:-1 tvg-id="BG: BON AIR" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BON-AIR.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BON AIR",BG: BON AIR
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441565&extension=ts&play_token=vCd7njiv7B
+#EXTINF:-1 tvg-id="BG: BOX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BOX-TV.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BOX HD",BG: BOX HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441563&extension=ts&play_token=xAPyHb910N
+#EXTINF:-1 tvg-id="BG: BOX TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/BOX-TV.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BOX TV",BG: BOX TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441562&extension=ts&play_token=FzDJaOzgdR
+#EXTINF:-1 tvg-id="BG: BTK TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14296.png?10711" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BTK TV ⱽᴵᴾ ᴿᴬᵂ",BG: BTK TV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460957&extension=ts&play_token=G0e2gLFP8H
+#EXTINF:-1 tvg-id="BG: BULGARIA ON AIR" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bulgariaonair.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BULGARIA ON AIR",BG: BULGARIA ON AIR
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441560&extension=ts&play_token=V4bOrnZit3
+#EXTINF:-1 tvg-id="BG: BULGARIA ON AIR" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bulgariaonair.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: BULGARIA ON AIR",BG: BULGARIA ON AIR
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441559&extension=ts&play_token=hREs73tgxT
+#EXTINF:-1 tvg-id="BG: BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/bulgariaonair.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ",BG: BULGARIA ON AIR ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460985&extension=ts&play_token=EEP7sY6Dar
+#EXTINF:-1 tvg-id="BG: C&I NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/crimeandinvestigationnetwork.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: C&I NETWORK",BG: C&I NETWORK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441558&extension=ts&play_token=FrPzy7O1ZO
+#EXTINF:-1 tvg-id="BG: CBS REAILTY" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/cbsreality.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CBS REAILTY",BG: CBS REAILTY
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441556&extension=ts&play_token=2nGYJuk3c1
+#EXTINF:-1 tvg-id="BG: CINEBOX ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14298.png?95050" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: CINEBOX ⱽᴵᴾ ᴿᴬᵂ",BG: CINEBOX ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460944&extension=ts&play_token=MvPRyFEGdh
+#EXTINF:-1 tvg-id="BG: CITY TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/citytv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CITY TV",BG: CITY TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441550&extension=ts&play_token=iA7NcS1l4h
+#EXTINF:-1 tvg-id="BG: CITY TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/citytv.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: CITY TV ⱽᴵᴾ ᴿᴬᵂ",BG: CITY TV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460939&extension=ts&play_token=kXWa83631x
+#EXTINF:-1 tvg-id="BG: CODE FASHION ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5999.jpg?14897" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: CODE FASHION ⱽᴵᴾ ᴿᴬᵂ",BG: CODE FASHION ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460951&extension=ts&play_token=zunWiD6opQ
+#EXTINF:-1 tvg-id="BG: CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14297.jpg?72850" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ",BG: CODE HEALTH ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460950&extension=ts&play_token=J7cUKSPNsi
+#EXTINF:-1 tvg-id="BG: CODEFASHION TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/CODEFASHION-TV.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: CODEFASHION TV HD",BG: CODEFASHION TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441549&extension=ts&play_token=F2gs8M9qA2
+#EXTINF:-1 tvg-id="BG: COMEDY PLUS" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/comedyplus1.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: COMEDY PLUS",BG: COMEDY PLUS
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441548&extension=ts&play_token=smAFUViias
+#EXTINF:-1 tvg-id="BG: COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14299.png?1207" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ",BG: COMEDYBOX ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460943&extension=ts&play_token=xn82S5lDuq
+#EXTINF:-1 tvg-id="BG: DAVINCI LEARNING" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/davincilearning.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DAVINCI LEARNING",BG: DAVINCI LEARNING
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441547&extension=ts&play_token=3xTXVsfYoV
+#EXTINF:-1 tvg-id="BG: DESTINATIONS" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/DESTINATIONS-TV.jpg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DESTINATIONS",BG: DESTINATIONS
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441546&extension=ts&play_token=gAuUVPTvcc
+#EXTINF:-1 tvg-id="BG: DIEMA FAMILY" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemafamily.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA FAMILY",BG: DIEMA FAMILY
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441545&extension=ts&play_token=Fk99s5UY04
+#EXTINF:-1 tvg-id="BG: DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diemafamily.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ",BG: DIEMA FAMILY ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460966&extension=ts&play_token=WPA2D7WNuS
+#EXTINF:-1 tvg-id="BG: DIEMA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diema.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA HD",BG: DIEMA HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441544&extension=ts&play_token=zTR1Vz4Xdw
+#EXTINF:-1 tvg-id="BG: DIEMA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diema.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIEMA TV",BG: DIEMA TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441539&extension=ts&play_token=WirUfFzr6S
+#EXTINF:-1 tvg-id="BG: DIEMA ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diema.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: DIEMA ⱽᴵᴾ ᴿᴬᵂ",BG: DIEMA ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460967&extension=ts&play_token=FXTfqTPgsJ
+#EXTINF:-1 tvg-id="BG: DIVA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/diva.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DIVA",BG: DIVA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441532&extension=ts&play_token=69aEe25C2c
+#EXTINF:-1 tvg-id="BG: DOCUBOX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/docuboxhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DOCUBOX HD",BG: DOCUBOX HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441531&extension=ts&play_token=NL4sIiuwCj
+#EXTINF:-1 tvg-id="BG: DOCUBOX ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6706.jpg?78078" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: DOCUBOX ⱽᴵᴾ ᴿᴬᵂ",BG: DOCUBOX ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460942&extension=ts&play_token=DrHVSwG6ep
+#EXTINF:-1 tvg-id="BG: DSTV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/dstv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DSTV",BG: DSTV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441530&extension=ts&play_token=zqCVDxNsuQ
+#EXTINF:-1 tvg-id="BG: DSTV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/dstv.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: DSTV ⱽᴵᴾ ᴿᴬᵂ",BG: DSTV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460932&extension=ts&play_token=kUpaB2WD0I
+#EXTINF:-1 tvg-id="BG: DUCK TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ducktv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: DUCK TV",BG: DUCK TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441529&extension=ts&play_token=JxUdM3CQMK
+#EXTINF:-1 tvg-id="BG: EKIDS ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/588.jpg?14238" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: EKIDS ⱽᴵᴾ ᴿᴬᵂ",BG: EKIDS ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460952&extension=ts&play_token=HhVC0E1Mq0
+#EXTINF:-1 tvg-id="BG: EPICDRAMA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/epicdramahd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: EPICDRAMA HD",BG: EPICDRAMA HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441527&extension=ts&play_token=8myUJWxc6O
+#EXTINF:-1 tvg-id="BG: EURONEWS ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14247.png?25323" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: EURONEWS ⱽᴵᴾ ᴿᴬᵂ",BG: EURONEWS ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460959&extension=ts&play_token=ISeHtYI3R3
+#EXTINF:-1 tvg-id="BG: EVROKOM" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/evrokom.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: EVROKOM",BG: EVROKOM
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441522&extension=ts&play_token=rR0mydtFtD
+#EXTINF:-1 tvg-id="BG: EVROKOM HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/evrokom.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: EVROKOM HD",BG: EVROKOM HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441521&extension=ts&play_token=xyVolKHMzN
+#EXTINF:-1 tvg-id="BG: EVROKOM ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/evrokom.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: EVROKOM ⱽᴵᴾ ᴿᴬᵂ",BG: EVROKOM ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460938&extension=ts&play_token=k648mFVPQL
+#EXTINF:-1 tvg-id="BG: E—KIDS" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ekids.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: E—KIDS",BG: E—KIDS
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441528&extension=ts&play_token=e94OcNplWO
+#EXTINF:-1 tvg-id="BG: FEN TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/fentv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FEN TV HD",BG: FEN TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441519&extension=ts&play_token=E9CH5uULH6
+#EXTINF:-1 tvg-id="BG: FEN TV SD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/fentv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FEN TV SD",BG: FEN TV SD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441518&extension=ts&play_token=nwhHNzzHMi
+#EXTINF:-1 tvg-id="BG: FEN ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9934.png?99406" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: FEN ⱽᴵᴾ ᴿᴬᵂ",BG: FEN ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460969&extension=ts&play_token=t4q7kDIwHb
+#EXTINF:-1 tvg-id="BG: FIGHT BOX ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/6697.png?62149" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: FIGHT BOX ᴿᴬᵂ",BG: FIGHT BOX ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562893&extension=ts&play_token=1Kcc4XtFvz
+#EXTINF:-1 tvg-id="BG: FIGHT NETWORK ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/3942.png?89042" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: FIGHT NETWORK ᴿᴬᵂ",BG: FIGHT NETWORK ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562892&extension=ts&play_token=sAEKAdHt0N
+#EXTINF:-1 tvg-id="BG: FIGHTBOX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/fightboxhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FIGHTBOX HD",BG: FIGHTBOX HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441517&extension=ts&play_token=ti7DYqKdyk
+#EXTINF:-1 tvg-id="BG: FIGHTKLUB ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/9982.jpg?56323" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: FIGHTKLUB ᴿᴬᵂ",BG: FIGHTKLUB ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562891&extension=ts&play_token=mX5AVhyEH4
+#EXTINF:-1 tvg-id="BG: FINE LIVING" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/fineliving.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FINE LIVING",BG: FINE LIVING
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441514&extension=ts&play_token=aRKCgh0kvU
+#EXTINF:-1 tvg-id="BG: FOOD NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/foodnetwork.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: FOOD NETWORK",BG: FOOD NETWORK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441511&extension=ts&play_token=pwpmCbDlKo
+#EXTINF:-1 tvg-id="BG: GAMETOON ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14358.jpg?31238" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: GAMETOON ᴿᴬᵂ",BG: GAMETOON ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562890&extension=ts&play_token=Mcj7fmQgJi
+#EXTINF:-1 tvg-id="BG: H2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/h2.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: H2",BG: H2
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441505&extension=ts&play_token=wKUbLFItYL
+#EXTINF:-1 tvg-id="BG: HIT MIX CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/HIT-MIX-CHANNEL.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: HIT MIX CHANNEL",BG: HIT MIX CHANNEL
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441499&extension=ts&play_token=0i59anKmnC
+#EXTINF:-1 tvg-id="BG: HOBBY TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/hobbytvhd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: HOBBY TV HD",BG: HOBBY TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441496&extension=ts&play_token=eFPFI0o4an
+#EXTINF:-1 tvg-id="BG: ID XTRA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/idxtra.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: ID XTRA",BG: ID XTRA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441495&extension=ts&play_token=vXQhMsz0ai
+#EXTINF:-1 tvg-id="BG: ID XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/idxtra.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: ID XTRA HD",BG: ID XTRA HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441494&extension=ts&play_token=nrn1SXSjiO
+#EXTINF:-1 tvg-id="BG: JIM JAM" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/jimjam.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: JIM JAM",BG: JIM JAM
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441493&extension=ts&play_token=QN9VbILGqy
+#EXTINF:-1 tvg-id="BG: KINO NOVA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/kinonova.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: KINO NOVA",BG: KINO NOVA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441491&extension=ts&play_token=e3z8O8FFIf
+#EXTINF:-1 tvg-id="BG: KINO NOVA ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3791.png?38114" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: KINO NOVA ⱽᴵᴾ ᴿᴬᵂ",BG: KINO NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460941&extension=ts&play_token=MHWppG6NnP
+#EXTINF:-1 tvg-id="BG: NATIONAL GEOGRAPHIC" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nationalgeographic.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NATIONAL GEOGRAPHIC",BG: NATIONAL GEOGRAPHIC
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441480&extension=ts&play_token=8G4Q5HQjRI
+#EXTINF:-1 tvg-id="BG: NOVA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/novatv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NOVA",BG: NOVA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441476&extension=ts&play_token=JkqXFcef4C
+#EXTINF:-1 tvg-id="BG: NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7732.png?66795" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ",BG: NOVA NEWS ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460982&extension=ts&play_token=36x3N9jqWw
+#EXTINF:-1 tvg-id="BG: NOVA ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/novatv.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: NOVA ⱽᴵᴾ ᴿᴬᵂ",BG: NOVA ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460984&extension=ts&play_token=HKyU4RiZoa
+#EXTINF:-1 tvg-id="BG: NRJ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nrj.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: NRJ",BG: NRJ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441472&extension=ts&play_token=6CT9NUrQe0
+#EXTINF:-1 tvg-id="BG: PERVIY KANAL" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/perviykanal.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: PERVIY KANAL",BG: PERVIY KANAL
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441471&extension=ts&play_token=xDLj7U4F5g
+#EXTINF:-1 tvg-id="BG: PLANETA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/planetatv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: PLANETA",BG: PLANETA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441470&extension=ts&play_token=iIYzTI1fmu
+#EXTINF:-1 tvg-id="BG: PLANETA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/planetahd.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: PLANETA HD",BG: PLANETA HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441468&extension=ts&play_token=3fAKm02rjw
+#EXTINF:-1 tvg-id="BG: PLANETA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/planetatv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: PLANETA TV",BG: PLANETA TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441467&extension=ts&play_token=HUCtOl7aJ1
+#EXTINF:-1 tvg-id="BG: PLANETA ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/planetatv.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: PLANETA ⱽᴵᴾ ᴿᴬᵂ",BG: PLANETA ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460937&extension=ts&play_token=BcJWS3a2A2
+#EXTINF:-1 tvg-id="BG: PP TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/PPTV.jpg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: PP TV",BG: PP TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441466&extension=ts&play_token=uFufnsuyIb
+#EXTINF:-1 tvg-id="BG: RING HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ringtv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: RING HD",BG: RING HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441465&extension=ts&play_token=QYCJ6EsgX3
+#EXTINF:-1 tvg-id="BG: RING TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ringtv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: RING TV",BG: RING TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441464&extension=ts&play_token=RF5iPBaAeo
+#EXTINF:-1 tvg-id="BG: RING ᴿᴬᵂ" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14533.png?24403" group-title="8K| SPORT ON AIR ⁸ᴷ" tvg-name="BG: RING ᴿᴬᵂ",BG: RING ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1562889&extension=ts&play_token=LckraffGpT
+#EXTINF:-1 tvg-id="BG: RING ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ringtv.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: RING ⱽᴵᴾ ᴿᴬᵂ",BG: RING ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460965&extension=ts&play_token=R5Haow90HK
+#EXTINF:-1 tvg-id="BG: RODINA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/RODINA-TV.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: RODINA TV",BG: RODINA TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441463&extension=ts&play_token=voRSGPHCDg
+#EXTINF:-1 tvg-id="BG: RODINA TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/RODINA-TV.jpeg" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: RODINA TV ⱽᴵᴾ ᴿᴬᵂ",BG: RODINA TV ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460933&extension=ts&play_token=Sd6RPGcksQ
+#EXTINF:-1 tvg-id="BG: ROMA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/romatv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: ROMA TV",BG: ROMA TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441462&extension=ts&play_token=pjMxubwvIt
+#EXTINF:-1 tvg-id="BG: SKAT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/SKAT-TV.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: SKAT TV",BG: SKAT TV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441461&extension=ts&play_token=g2Yz42RzhI
+#EXTINF:-1 tvg-id="BG: TLC" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/tlc.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TLC",BG: TLC
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441454&extension=ts&play_token=3H5LPuU2v3
+#EXTINF:-1 tvg-id="BG: TV 1 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3730.jpg?56817" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: TV 1 ⱽᴵᴾ ᴿᴬᵂ",BG: TV 1 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460935&extension=ts&play_token=hVIvsOjoxw
+#EXTINF:-1 tvg-id="BG: TV 1000" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/tv1000.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TV 1000",BG: TV 1000
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441445&extension=ts&play_token=G2qk17eX29
+#EXTINF:-1 tvg-id="BG: TV 7/8 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14295.jpg?15839" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: TV 7/8 ⱽᴵᴾ ᴿᴬᵂ",BG: TV 7/8 ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460958&extension=ts&play_token=QQ3IahErBT
+#EXTINF:-1 tvg-id="BG: TV CHERNO MORE" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TV-CHERNO-MORE.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TV CHERNO MORE",BG: TV CHERNO MORE
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441444&extension=ts&play_token=yoXUDheqbL
+#EXTINF:-1 tvg-id="BG: TV EVROPA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TV-EVROPA.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TV EVROPA",BG: TV EVROPA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441443&extension=ts&play_token=3T6tMEPd2s
+#EXTINF:-1 tvg-id="BG: TV PLUS" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TVPLUS-.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TV PLUS",BG: TV PLUS
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441442&extension=ts&play_token=VXP0khrgSj
+#EXTINF:-1 tvg-id="BG: TVT" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TVT.jpeg" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: TVT",BG: TVT
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441441&extension=ts&play_token=d72adORbRZ
+#EXTINF:-1 tvg-id="BG: VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14067.png?30912" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ",BG: VIASAT EXPLORE ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460947&extension=ts&play_token=HBtCJ5x2ta
+#EXTINF:-1 tvg-id="BG: VIASAT EXPLORER" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/viasatexplore.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: VIASAT EXPLORER",BG: VIASAT EXPLORER
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441440&extension=ts&play_token=6cehmiqOq1
+#EXTINF:-1 tvg-id="BG: VIASAT NATURE" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/viasatnature.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: VIASAT NATURE",BG: VIASAT NATURE
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441437&extension=ts&play_token=8Aebz10AN4
+#EXTINF:-1 tvg-id="BG: VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14069.png?87014" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ",BG: VIASAT NATURE ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460949&extension=ts&play_token=leAJ4FA9eT
+#EXTINF:-1 tvg-id="BG: VIVACOM ARENA" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/VIVACOM-ARENA.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: VIVACOM ARENA",BG: VIVACOM ARENA
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441436&extension=ts&play_token=olB8YhVJvS
+#EXTINF:-1 tvg-id="BG: VTK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/vtk-.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: VTK",BG: VTK
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441435&extension=ts&play_token=Dqewo6kl3l
+#EXTINF:-1 tvg-id="BG: VTK ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/vtk-.png" group-title="BG| BULGARIA ⱽᴵᴾ ᴿᴬᵂ" tvg-name="BG: VTK ⱽᴵᴾ ᴿᴬᵂ",BG: VTK ⱽᴵᴾ ᴿᴬᵂ
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=1460928&extension=ts&play_token=Q2El2DsnnC
+#EXTINF:-1 tvg-id="BG: WILD TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/wildtv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: WILD TV HD",BG: WILD TV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441434&extension=ts&play_token=MQLgdxhTiC
+#EXTINF:-1 tvg-id="BG: WNESSTV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/wnesstv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: WNESSTV",BG: WNESSTV
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441433&extension=ts&play_token=0Lo8t5FdOx
+#EXTINF:-1 tvg-id="BG: WNESSTV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/wnesstv.png" group-title="BG| BULGARIA ᴴᴰ/ᴿᴬᵂ" tvg-name="BG: WNESSTV HD",BG: WNESSTV HD
+http://1globaltvsh.com:80/play/live.php?mac=00:1A:79:67:FB:66&stream=441432&extension=ts&play_token=qJK5kYFb80
